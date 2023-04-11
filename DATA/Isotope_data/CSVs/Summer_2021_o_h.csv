@@ -1,0 +1,94 @@
+﻿SIF ID,Sample ID,site,hab,spp,rep,δ18O,*δ2H
+20220041.050,pea pea 1 black,shelf,r,pea,,22.9,-123
+20220041.051,sp comp willow 2 black,spread cr,c,willow,,29.4,-131
+20220041.052,pea ane 1 black,shelf,r,ane,,20.8,-134
+20220041.053,pil tw unk 2 black,pil cr,r,unk,,27.4,-127
+20220041.054,pea mon 3 black,shelf,r,mon,,21.2,-157
+20220041.055,BR BH 7,,,,,26.2,-132
+20220041.056,pil tw tw 2 black,pil cr,r,wl,,24.9,-142
+20220041.057,comp ast 1 black,shelf,c,ast,,23.1,-127
+20220041.058,abs pen bunchg 4 black,absoroka,r,bunch,,28.4,-125
+20220041.059,abs pen pen 6 green,absoroka,r,abs pen,,27.1,-119
+20220041.060,sp wl willow 2 green,spread cr,r,willow,,26.7,-130
+20220041.061,sp comp willow 1 green,spread cr,c,willow,,26.9,-119
+20220041.062,BR BH 19,,,,,28.1,-135
+20220041.063,sp wl wl 4 black,spread cr,r,wl,,25.6,-149
+20220041.064,abs pen wheat 1 black,absoroka,r,wheat,,30.0,-160
+20220041.065,sp wl wl 3 green,spread cr,r,wl,,26.6,-134
+20220041.066,abs pen wheat 5 black,absoroka,r,wheat,,30.3,-162
+20220041.067,pea ane 3 black,shelf,r,ane,,23.2,-128
+20220041.068,abs pen pen 4 green,absoroka,r,abs pen,,25.2,-123
+20220041.069,pea pea 3 black,shelf,r,pea,,21.8,-122
+20220041.070,pea ane 2 black,shelf,r,ane,,21.6,-123
+20220041.071,sp wl willow 3 green (E2),spread cr,r,willow,,25.1,-124
+20220041.072,sp wl ast 3 black,spread cr,r,t ast,,24.3,-161
+20220041.073,sp comp willow 3 green,spread cr,c,willow,,28.5,-120
+20220041.074,BR BH 24,,,,,30.2,-107
+20220041.075,comp mon 2 green,shelf,c,mon,,23.3,-131
+20220041.076,pea pea 2 black,shelf,r,pea,,23.1,-107
+20220041.077,pen abs bunchg 2 green,absoroka,r,bunch,,27.8,-131
+20220041.078,comp ane 2 black,shelf,c,ane,,23.4,-126
+20220041.079,sp wl willow 3 green,spread cr,r,willow,,25.9,-123
+20220041.080,BR BH 8,,,,,24.8,-162
+20220041.081,comp ane 3 green,shelf,c,ane,,23.7,-121
+20220041.082,pea mon 1 black,shelf,r,mon,,23.2,-131
+20220041.083,abs pen wheat 4 green,absoroka,r,wheat,,29.0,-144
+20220041.084,sp wl ast 3 green,spread cr,r,t ast,,,
+20220041.085,pea ast 2 green,shelf,r,ast,,21.7,-111
+20220041.086,pil tw aster 2 green,pil cr,r,t ast,,26.1,-127
+20220041.087,BR BH 18,,,,,21.5,-150
+20220041.088,pil tw tw 3 green,pil cr,r,wl,,25.8,-114
+20220041.089,abs pen pen 1 black,absoroka,r,abs pen,,26.1,-119
+20220041.090,sp comp willow 3 black,spread cr,c,willow,,28.1,-127
+20220041.091,comp mon 1 green,shelf,c,mon,,21.5,-146
+20220041.092,BR BH 4,,,,,27.1,-154
+20220041.093,pil tw unk 1 black,pil cr,r,unk,,26.6,-128
+20220041.094,sp wl willow 3.5 black,spread cr,r,willow,,23.1,-127
+20220041.095,abs pen wheat 6 green,absoroka,r,wheat,,29.0,-157
+20220041.096,comp mon 2 black,shelf,c,mon,,22.7,-144
+20220041.097,comp ast 1 green,shelf,c,ast,,21.4,-133
+20220041.098,pea ast 1 black (2),shelf,r,ast,,20.9,-132
+20220041.099,sp wl illow 3 black,spread cr,r,willow,,23.1,-133
+20220041.100,sp wl wl 1 green,spread cr,r,wl,,21.5,-153
+20220041.101,comp mon 3 green,shelf,c,mon,,20.5,-164
+20220041.102,pil tw unk 1 green,pil cr,r,unk,,27.3,-149
+20220041.103,abs pen pen 3 black,absoroka,r,abs pen,,26.4,-138
+20220041.104,pil tw unk 3 green,pil cr,r,unk,,25.7,-143
+20220041.105,pil tw aster 1 black,pil cr,r,t ast,,26.7,-145
+20220041.106,pea pea 1 green,shelf,r,pea,,21.1,-147
+20220041.107,sp comp willow 7 black,spread cr,c,willow,,28.7,-133
+20220041.108,pil tw tw 3 black,pil cr,r,wl,,,
+20220041.109,BR BH 10,,,,,32.1,-139
+20220041.110,BR BH 21,,,,,28.0,-126
+20220041.111,sp wl aci aster,spread cr,r,t ast,,23.9,-174
+20220041.112,comp ast 2 green,shelf,c,ast,,21.5,-131
+20220041.113,BR BH 22,,,,,27.3,-124
+20220041.114,pen ast 1 green,shelf,r,ast,,19.6,-153
+20220041.115,BR BH 15,,,,,23.4,-149
+20220041.116,pil tw aster 2 black,pil cr,r,t ast,,,
+20220041.117,pil tw unk 2 green,pil cr,r,unk,,26.9,-142
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
